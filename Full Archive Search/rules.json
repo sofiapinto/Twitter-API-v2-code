@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "value": "(\"knife crime\" OR \"knife attack\") lang:en -is:retweet -place_country:US has:geo"
+        },
+        {
+            "value": "(stabbed OR knifed OR stabbing) lang:en -is:retweet -place_country:US has:geo"
+        },
+        {
+            "value": "(stab (dead OR death OR wound OR injury)) lang:en -is:retweet -place_country:US has:geo"
+        }
+    ]
+
+ }
