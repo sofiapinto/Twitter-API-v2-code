@@ -2,7 +2,7 @@
 
 This repository contains code examples that can be used to retrieve data from Twitter API v2. Each folder corresponds to a specific endpoint and contains a python file and a jupyter notebook. The difference between the two is that the jupyter notebook shows the process step by step and has every step explained thoroughly.
 
-## [Full Archive search](https://github.com/sofiapinto/Twitter-API-v2-code)
+## [Full Archive search](https://github.com/sofiapinto/Twitter-API-v2-code/tree/main/Full%20Archive%20Search)
 - Endpoint: GET /2/tweets/search/all
 - In order to use this specific endpoint you need to have [Academic Research Access](https://developer.twitter.com/en/products/twitter-api/academic-research)
 
