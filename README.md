@@ -6,6 +6,9 @@ This repository contains code examples that can be used to retrieve data from Tw
 - Endpoint: GET /2/tweets/search/all
 - In order to use this specific endpoint you need to have [Academic Research Access](https://developer.twitter.com/en/products/twitter-api/academic-research)
 
+## [Users lookup](https://github.com/sofiapinto/Twitter-API-v2-code/tree/main/Users%20lookup)
+- Endpoint: GET /2/users
+
 
 ## Useful links
 - My code was inspired in Twitter's code that you can find [here](https://github.com/twitterdev/Twitter-API-v2-sample-code/)
