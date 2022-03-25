@@ -3,7 +3,6 @@
 #-------------------------
 #All the necessary packages to retrieve data from twitter API GET /2/tweets/search/all endpoint.
 import requests
-import os
 import json
 import time
 import random
